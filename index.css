@@ -1,0 +1,37 @@
+.my_container {
+    background-color: rgb(173, 200, 213);
+    text-align: center;
+   
+}
+
+.title {
+   font-family: "Roboto";
+   font-size: 35px;
+   font-weight: bold;
+}
+.sub_title {
+    font-size: 25px;
+
+}
+.description_card {
+    text-align: left;
+    
+    background-color: rgb(146, 172, 188);
+    margin: 20px;
+
+
+}
+.image {
+    width: 480px;
+    height: 380px;
+    
+}
+p {
+    font-size: 18px;
+    columns: black;
+
+}
+li {
+    line-height: 2;
+    font-size: 17px;
+}
